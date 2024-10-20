@@ -21,7 +21,7 @@ accurate student records.
 
 1. Clone the repository using the following command:
    ```
-   git clone https://github.com/your-username/student-record-management.git
+   git clone https://github.com/Ahsan-Habib147/student-record-management.git
    ```
 
 2. Compile the source code using a C++ compiler.
